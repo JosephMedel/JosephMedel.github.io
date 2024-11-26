@@ -11,4 +11,4 @@ Lab 5, part 1
 I found this lab interesting as it was an introduction on how to implement equations to find a desired output through code. In the lab we were meant to find the area of a rectanlge by initializing a length and width value, and then multiplying those two values by eachother.
 
 Lab 7, part 1
-This is my favorite lab because I found the code pertaining to the command line size and the if statements incredibly satisfying. The code itself came out looking visually pleasing aswell. This was also the lab in which I collaborated the most with my partner, which really made it feel like a team effort.
+This is my favorite lab because I found the code pertaining to the command line size, argument count, and the if statements incredibly satisfying. The code itself came out looking visually pleasing aswell. This was also the lab in which I collaborated the most with my partner, which really made it feel like a team effort.
